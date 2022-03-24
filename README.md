@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/joseburgon"><img src="https://github.com/joseburgon/joseburgon/devcard.svg" width="400" alt="Jose Burgon's Dev Card"/></a>
+<a href="https://app.daily.dev/joseburgon"><img src="https://github.com/joseburgon/joseburgon/blob/main/devcard.svg" width="400" alt="Jose Burgon's Dev Card"/></a>
 
 <!--
 **joseburgon/joseburgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
