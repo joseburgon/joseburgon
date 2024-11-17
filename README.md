@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Burgon</h1>
-<h3 align="center">A passionate fulltstack developer from Colombia 🇨🇴 living in Chile 🇨🇱</h3>
+<h3 align="center">A passionate fulltstack developer from Colombia 🇨🇴 living in Canada 🇨🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseburgon&label=Profile%20views&color=0e75b6&style=flat" alt="joseburgon" /> </p>
 
